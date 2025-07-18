@@ -1,6 +1,5 @@
 ## 🌸 Iris Flower Classifier Web App
 
-![Streamlit](https://img.shields.io/badge/Made%20with-Streamlit-red?style=flat\&logo=streamlit)
 **Live App**: [irisclassifier-disha.streamlit.app](https://irisclassifier-disha.streamlit.app/)
 
 This web application predicts the species of an Iris flower based on user-inputted features. It uses a trained **machine learning model** to make predictions and provides a clean and interactive UI built with **Streamlit**.
