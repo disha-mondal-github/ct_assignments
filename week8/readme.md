@@ -23,7 +23,7 @@ A Streamlit-powered AI chatbot that leverages **LlamaIndex**, **Mistral LLM**, a
 
 ## 🖼️ Screenshots
 
-![Landing UI](screenshots/home.png)
+![Landing UI](screenshots/landing.png)
 ![Query Sample](screenshots/query.png)
 
 
